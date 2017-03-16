@@ -1,12 +1,16 @@
 [submodule "powertac-parent"]
 	path = powertac-parent
-	url = https://github.com/powertac/powertac-parent.git
+	url = https://github.com/erikkemperman/powertac-parent.git
+	branch = release_test
 [submodule "powertac-aop"]
 	path = powertac-aop
-	url = https://github.com/powertac/powertac-aop.git
+	url = https://github.com/erikkemperman/powertac-aop.git
+	branch = release_test
 [submodule "common"]
 	path = common
-	url = https://github.com/powertac/common.git
+	url = https://github.com/erikkemperman/common.git
+	branch = release_test
 [submodule "broker-core"]
 	path = broker-core
-	url = https://github.com/powertac/broker-core.git
+	url = https://github.com/erikkemperman/broker-core.git
+	branch = release_test
